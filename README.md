@@ -1,5 +1,5 @@
 # Project: Lumen Service App
-Tugas 8 - Web Service
+Tugas 9 - Web Service
 
 ## End-point: Getting Status
 ### Method: GET
@@ -18,7 +18,7 @@ Tugas 8 - Web Service
 ## End-point: Get Hello-Lumen
 ### Method: GET
 >```
->localhost:5000/hello-lumen/nurhidayat
+>localhost:5000/hello-lumen/ikhsan
 >```
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
@@ -48,7 +48,7 @@ Tugas 8 - Web Service
 
 ```json
 {
-    "email" : "daysubhiz@gmail.com",
+    "email" : "ikhsanfzn@gmail.com",
     "password" : "password"
 }
 ```
